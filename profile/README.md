@@ -3,4 +3,4 @@ UltraBrowse proxy has been shut down because of people using it for innapropriat
 I apologize if this is taking you by surprise, but I unfortunately have no choice. This website will stay on this page for the rest of the summer until NewPrixmix is built. 
 <br>
 <br>
-- The Ultrabrowse Team
+= The Ultrabrowse Team
